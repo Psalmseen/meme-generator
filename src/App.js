@@ -6,7 +6,7 @@ class App extends React.Component{
         this.state= {
             topText:"",
             bottomText:"",
-            memeImg:"https:\/\/i.imgflip.com\/9ehk.jpg",
+            memeImg:"https://i.imgflip.com/9ehk.jpg",
             memeCollection: []
 
         }
